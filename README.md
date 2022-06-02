@@ -174,4 +174,23 @@ Our library includes algorithms covering three major categories:
 RecBole-GNN is developed and maintained by members from [RUCAIBox](http://aibox.ruc.edu.cn/), the main developers are Yupeng Hou ([@hyp1231](https://github.com/hyp1231)), Lanling Xu ([@Sherry-XLL](https://github.com/Sherry-XLL)) and Changxin Tian ([@ChangxinTian](https://github.com/ChangxinTian)).
 
 ## [RecBole-TRM](https://github.com/RUCAIBOX/RecBole-TRM)
+**RecBole-TRM** is a library built upon [PyTorch](https://pytorch.org) and [RecBole](https://github.com/RUCAIBox/RecBole) for reproducing and developing recommendation algorithms based on Transformers (TRMs).
 
+### 1）Highlights
+
+* **Easy-to-use API**:
+    Our library shares unified API and input (atomic files) as RecBole.
+* **Fair reproducibility and comparison**:
+    Our library provides fair reproducibility and comparison in a systematic mechanism.
+* **Extensive Transformer library**:
+    Our library provides extensive API based on common Transformer layers, one can further develop new models easily based on our library.
+
+### 2）Implemented Models
+
+Our library includes algorithms covering two major categories:
+* **Sequential Recommendation**: TiSASRec, SSE-PT, LightSANs
+* **News Recommendation**: NRMS, NAML, NPA
+
+### 3）The Team
+
+RecBole-TRM is developed and maintained by members from [RUCAIBox](http://aibox.ruc.edu.cn/), the main developers are Wenqi Sun ([@wenqisun](https://github.com/wenqisun)) and Xinyan Fan ([@BELIEVEfxy](https://github.com/BELIEVEfxy)).
