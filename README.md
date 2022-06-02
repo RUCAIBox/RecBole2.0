@@ -3,11 +3,11 @@
 
 ## [Data augmentation](https://github.com/RUCAIBox/RecBole-DA)
 
-## [Meta recommendation](https://github.com/RUCAIBox/RecBole-MetaRec)
+## [Meta recommendation](https://github.com/nuster1128/RecBole-MetaRec)
 
-## [Debiased recommendation](https://github.com/RUCAIBOX/RecBole-Debias)
+## [Debiased recommendation](https://github.com/JingsenZhang/RecBole-Debias)
 
-## [Fairness recommendation](https://github.com/RUCAIBox/RecBole-FairRec)
+## [Fairness recommendation](https://github.com/TangJiakai/RecBole-FairRec)
 
 ## [Cross-domain recommendation](https://github.com/RUCAIBox/RecBole-CDR)
 
