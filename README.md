@@ -21,24 +21,26 @@ systems.
 ## [RecBole-MetaRec](https://github.com/nuster1128/RecBole-MetaRec)
 
 ## [RecBole-Debias](https://github.com/JingsenZhang/RecBole-Debias)
-**RecBole-GNN** is a library built upon [PyTorch](https://pytorch.org) and [RecBole](https://github.com/RUCAIBox/RecBole) for reproducing and developing recommendation algorithms based on graph neural networks (GNNs). 
+**RecBole-Debias** is a toolkit built upon [RecBole](https://github.com/RUCAIBox/RecBole) for reproducing and developing debiased recommendation algorithms.
 
 ### 1）Highlights
 
 * **Easy-to-use and unified API**:
-    Our library shares unified API and input (atomic files) as RecBole.
+    Our library shares
 * **Efficient and reusable graph processing**:
-    We provide highly efficient and reusable basic datasets, dataloaders and layers for graph processing and learning.
+    We provide highl
 * **Extensive graph library**:
-    Graph neural networks from widely-used library like [PyG](https://github.com/pyg-team/pytorch_geometric) are incorporated. Recently proposed graph algorithms can be easily equipped and compared with existing methods.
+    Graph neural networks from
 
 ### 2）Implemented Models
 
-Our library includes algorithms covering three major categories:
+We list currently supported models according to category:
 
-* **General Recommendation**: NGCF, LightGCN, SGL, HMLET, NCL, SimGCL
-* **Sequential Recommendation**: SR-GNN, GC-SAN, NISER, LESSR, TAGNN, GCE-GNN, SGNN-HN
-* **Social Recommendation**: DiffNet, MHCN, SEPT
+* **Base Model**: MF
+* **Selection Bias**: MF-IPS
+* **Popularity Bias**: PDA, MACR, DICE, CausE
+* **Exposure Bias**: Rel-MF
+
 
 ### 3）The Team
 
@@ -62,12 +64,11 @@ RecBole-Debias is developed and maintained by members from [RUCAIBox](http://aib
 
 ### 2）Implemented Models
 
-We list currently supported models according to category:
+Our library includes algorithms covering three major categories:
 
-* **Base Model**: MF
-* **Selection Bias**: MF-IPS
-* **Popularity Bias**: PDA, MACR, DICE, CausE
-* **Exposure Bias**: Rel-MF
+* **General Recommendation**: NGCF, LightGCN, SGL, HMLET, NCL, SimGCL
+* **Sequential Recommendation**: SR-GNN, GC-SAN, NISER, LESSR, TAGNN, GCE-GNN, SGNN-HN
+* **Social Recommendation**: DiffNet, MHCN, SEPT
 
 ### 3）The Team
 
