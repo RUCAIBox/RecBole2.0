@@ -48,8 +48,9 @@ Our library includes algorithms covering three major categories:
 
 * **Social Recommendation**: DiffNet, MHCN, SEPT
 
+### 3）The Team
 
-For more details, please refer our [repro](https://github.com/RUCAIBox/RecBole-GNN).
+RecBole-GNN is developed and maintained by members from [RUCAIBox](http://aibox.ruc.edu.cn/), the main developers are Yupeng Hou ([@hyp1231](https://github.com/hyp1231)), Lanling Xu ([@Sherry-XLL](https://github.com/Sherry-XLL)) and Changxin Tian ([@ChangxinTian](https://github.com/ChangxinTian)).
 
 ## [RecBole-TRM](https://github.com/RUCAIBOX/RecBole-TRM)
 
