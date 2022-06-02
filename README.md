@@ -28,6 +28,11 @@ systems.
 ## [Cross-domain recommendation](https://github.com/RUCAIBox/RecBole-CDR)
 
 ## [Graph-based recommendation](https://github.com/RUCAIBox/RecBole-GNN)
+**RecBole-GNN** is a library built upon [PyTorch](https://pytorch.org) and [RecBole](https://github.com/RUCAIBox/RecBole) for reproducing and developing recommendation algorithms based on graph neural networks (GNNs). Our library includes algorithms covering three major categories:
+* **General Recommendation** with user-item interaction graphs;
+* **Sequential Recommendation** with session/sequence graphs;
+* **Social Recommendation** with social networks.
+![](asset/arch.png)
 
 ## [Transformer-based recommendation](https://github.com/RUCAIBOX/RecBole-TRM)
 
