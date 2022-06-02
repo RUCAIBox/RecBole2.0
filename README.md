@@ -27,7 +27,7 @@ systems.
 ## [RecBole-CDR](https://github.com/RUCAIBox/RecBole-CDR)
 **RecBole-CDR** is a library built upon [RecBole](https://github.com/RUCAIBox/RecBole) for reproducing and developing cross-domain recommendation algorithms.
 
-### 1)Highlights
+### 1) Highlights
 
 * **Automatic and compatible data processing for cross-domain recommendation**:
     Our library designs a unified data structure for cross-domain recommendation, which inherits all the data pre-processing strategies in RecBole. The overlapped data in different domains can be matched automatically.
