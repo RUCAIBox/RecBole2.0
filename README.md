@@ -32,7 +32,7 @@ systems.
 * **General Recommendation** with user-item interaction graphs;
 * **Sequential Recommendation** with session/sequence graphs;
 * **Social Recommendation** with social networks.
-![](asset/arch.png)
+![](asset/recbole-gnn.png)
 
 ## [Transformer-based recommendation](https://github.com/RUCAIBOX/RecBole-TRM)
 
