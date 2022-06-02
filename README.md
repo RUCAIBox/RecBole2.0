@@ -43,9 +43,7 @@ systems.
 Our library includes algorithms covering three major categories:
 
 * **General Recommendation**: NGCF, LightGCN, SGL, HMLET, NCL, SimGCL
-
 * **Sequential Recommendation**: SR-GNN, GC-SAN, NISER, LESSR, TAGNN, GCE-GNN, SGNN-HN
-
 * **Social Recommendation**: DiffNet, MHCN, SEPT
 
 ### 3）The Team
