@@ -188,7 +188,7 @@ RecBole-GNN is developed and maintained by members from [RUCAIBox](http://aibox.
 ### 2）Implemented Models
 
 Our library includes algorithms covering two major categories:
-* **Sequential Recommendation**: TiSASRec, SSE-PT, LightSANs
+* **Sequential Recommendation**: TiSASRec, SSE-PT, LightSANs, gMLP
 * **News Recommendation**: NRMS, NAML, NPA
 
 ### 3）The Team
