@@ -100,7 +100,7 @@ We list the models and fairness-metrics that we have implemented up to now:
 
 ### 3）The Team
 
-RecBole-FairRec is developed and maintained by members from [RUCAIBox](http://aibox.ruc.edu.cn/), the main developers is Jiakai Tang ([@Jiakai Tang](https://github.com/TangJiakai)).
+RecBole-FairRec is developed and maintained by Jiakai Tang ([@Jiakai Tang](https://github.com/TangJiakai)).
 
 ## [RecBole-CDR](https://github.com/RUCAIBox/RecBole-CDR)
 
