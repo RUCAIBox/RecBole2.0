@@ -53,7 +53,7 @@ RecBole-Debias is developed and maintained by members from [RUCAIBox](http://aib
 
 ## [RecBole-FairRec](https://github.com/TangJiakai/RecBole-FairRec)
 
-**RecBole-FairRec** is a library toolkit built upon [PyTorch](https://pytorch.org) and [RecBole](https://recbole.io) for reproducing and developing fairness-aware recommendation.
+**RecBole-FairRec** is a library toolkit built upon [PyTorch](https://pytorch.org) and [RecBole](https://recbole.io) for reproducing and developing fairness-aware recommendation algorithms.
 
 ### 1）Highlights
 * **Easy-to-use**: Our library shares unified API and input(atomic files) as RecBole.
@@ -65,13 +65,14 @@ RecBole-Debias is developed and maintained by members from [RUCAIBox](http://aib
 We list the models and fairness-metrics that we have implemented up to now:
 
 * **Models**: FOCF, PFCN(including PFCN_MLP, PFCN_BiasedMF, PFCN_DMF, PFCN_PMF), FairGo(including FairGo_PMF_WAP, FairGo_PMF_LBA, FairGo_PMF_LVA, FairGo_GCN_WAP, FairGo_GCN_LBA, FairGo_GCN_LVA), NFCF
-* **Item-Oriented-Metrics**: GiniIndex, PopularityPercentage
-* **User-Oriented-Metrics**:DifferentialFairness,ValueUnfairness, AbsoluteUnfairness, UnderUnfairness, OverUnfairness, NonParityUnfairness
+* **Fairness-Metrics**:
+  * **Item-Oriented**: GiniIndex, PopularityPercentage
+  * **User-Oriented**: DifferentialFairness,ValueUnfairness, AbsoluteUnfairness, UnderUnfairness, OverUnfairness, NonParityUnfairness
 
 
 ### 3）The Team
 
-RecBole-Debias is developed and maintained by members from [RUCAIBox](http://aibox.ruc.edu.cn/), the main developers is Jiakai Tang ([@Jiakai Tang](https://github.com/TangJiakai)).
+RecBole-FairRec is developed and maintained by members from [RUCAIBox](http://aibox.ruc.edu.cn/), the main developers is Jiakai Tang ([@Jiakai Tang](https://github.com/TangJiakai)).
 
 ## [RecBole-CDR](https://github.com/RUCAIBox/RecBole-CDR)
 
