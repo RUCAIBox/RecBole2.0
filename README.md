@@ -20,6 +20,34 @@ systems.
 
 ## [RecBole-MetaRec](https://github.com/nuster1128/RecBole-MetaRec)
 
+**RecBole-MetaRec** is an extended package for [RecBole](https://recbole.io/), which aims to help researchers to compare and develop their own models in the field of meta learning recommendation.
+
+### 1) Highlights
+
+The package can mainly provide researchers with the following advantages:
+
+- **Conveniently develop** new meta learning recommendation models with the general meta learning framework.
+- **Conveniently learn and compare** the meta learning recommendation models that we have implemented. 
+- **Conveniently use** the advantages and features of RecBole.
+
+Moreover, we provide a [document](https://recbole-metarec-doc.readthedocs.io/en/latest/) in detail for researchers.
+
+### 2) Implemented Models
+
+Our package includes three main types of algorithms:
+
+- **Meta learn to predict**: MeLU, MAMO
+- **Meta learn to parameterize**: LWA, NLBA, TaNP
+- **Meta learn to embed**: MetaEmb, MWUF
+
+### 3) Extended Modules
+
+**(1) MetaDataset**: the meta learning task splitter. **(2) MetaDataLoader**: the meta learning task translator. **(3) MetaRecommender**: the template for meta learning models. **(4) MetaTrainer**: the base trainer for meta learning training process. **(5) MetaCollector**: the evaluation class for meta learning tasks. **(6) MetaUtils**: the toolkit for meta learning.
+
+### 4) The Team
+
+RecBole-MetaRec is developed and maintained by members from [RUCAIBox](http://aibox.ruc.edu.cn/), the main developer is Zeyu Zhang ([@Zeyu Zhang](https://github.com/nuster1128)).
+
 ## [RecBole-Debias](https://github.com/JingsenZhang/RecBole-Debias)
 **RecBole-Debias** is a toolkit built upon [RecBole](https://github.com/RUCAIBox/RecBole) for reproducing and developing debiased recommendation algorithms.
 
