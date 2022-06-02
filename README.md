@@ -25,12 +25,17 @@ systems.
 
 ### 1）Highlights
 
-* **Easy-to-use and unified API**:
-    Our library shares
-* **Efficient and reusable graph processing**:
-    We provide highl
-* **Extensive graph library**:
-    Graph neural networks from
+* **Unified**
+
+    A unified framework, which includes several algorithms for different kinds of biases. Meanwhile, three datasets with the different distributions of training set and test set are provided for training and evaluation.
+
+* **Adaptive**
+
+    Adaptive to many base recommendation models. For simplicity, the current implementation is only based on MF model.
+    
+* **Closely**
+
+    Closely related to Recbole. The toolkit fully adopts the functions of Recbole, except that certain algorithms need to design unique components like trainer.
 
 ### 2）Implemented Models
 
