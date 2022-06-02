@@ -1,6 +1,5 @@
 # RecBole 2.0
-In order to support the study of recent advances in recommender
-systems, based on a popular recommendation framework [RecBole](https://github.com/RUCAIBox/Recbole), we develop an extended recommendation library called RecBole 2.0, consisting of benchmarking packages for up-to-date topics and architectures. 
+Based on a popular recommendation framework [RecBole](https://github.com/RUCAIBox/Recbole), we develop an extended recommendation library called RecBole 2.0, consisting of benchmarking packages for up-to-date topics and architectures. 
 
 RecBole 2.0 includes 7 packages covering the up-to-date research topic in recommender system:
 
