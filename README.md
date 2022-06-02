@@ -46,7 +46,7 @@ Our package includes three main types of algorithms:
 
 ### 4) The Team
 
-RecBole-MetaRec is developed and maintained by members from [RUCAIBox](http://aibox.ruc.edu.cn/), the main developer is Zeyu Zhang ([@Zeyu Zhang](https://github.com/nuster1128)).
+RecBole-MetaRec is developed and maintained by Zeyu Zhang ([@Zeyu Zhang](https://github.com/nuster1128)).
 
 ## [RecBole-Debias](https://github.com/JingsenZhang/RecBole-Debias)
 **RecBole-Debias** is a toolkit built upon [RecBole](https://github.com/RUCAIBox/RecBole) for reproducing and developing debiased recommendation algorithms.
