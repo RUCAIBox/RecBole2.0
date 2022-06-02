@@ -20,7 +20,29 @@ systems.
 
 ## [RecBole-MetaRec](https://github.com/nuster1128/RecBole-MetaRec)
 
-## [RecBole-debias](https://github.com/JingsenZhang/RecBole-Debias)
+## [RecBole-Debias](https://github.com/JingsenZhang/RecBole-Debias)
+**RecBole-GNN** is a library built upon [PyTorch](https://pytorch.org) and [RecBole](https://github.com/RUCAIBox/RecBole) for reproducing and developing recommendation algorithms based on graph neural networks (GNNs). 
+
+### 1）Highlights
+
+* **Easy-to-use and unified API**:
+    Our library shares unified API and input (atomic files) as RecBole.
+* **Efficient and reusable graph processing**:
+    We provide highly efficient and reusable basic datasets, dataloaders and layers for graph processing and learning.
+* **Extensive graph library**:
+    Graph neural networks from widely-used library like [PyG](https://github.com/pyg-team/pytorch_geometric) are incorporated. Recently proposed graph algorithms can be easily equipped and compared with existing methods.
+
+### 2）Implemented Models
+
+Our library includes algorithms covering three major categories:
+
+* **General Recommendation**: NGCF, LightGCN, SGL, HMLET, NCL, SimGCL
+* **Sequential Recommendation**: SR-GNN, GC-SAN, NISER, LESSR, TAGNN, GCE-GNN, SGNN-HN
+* **Social Recommendation**: DiffNet, MHCN, SEPT
+
+### 3）The Team
+
+RecBole-Debias is developed and maintained by members from [RUCAIBox](http://aibox.ruc.edu.cn/), the main developers is Jingsen Zhang ([@Jingsen Zhang](https://github.com/JingsenZhang)).
 
 ## [RecBole-FairRec](https://github.com/TangJiakai/RecBole-FairRec)
 
@@ -40,11 +62,12 @@ systems.
 
 ### 2）Implemented Models
 
-Our library includes algorithms covering three major categories:
+We list currently supported models according to category:
 
-* **General Recommendation**: NGCF, LightGCN, SGL, HMLET, NCL, SimGCL
-* **Sequential Recommendation**: SR-GNN, GC-SAN, NISER, LESSR, TAGNN, GCE-GNN, SGNN-HN
-* **Social Recommendation**: DiffNet, MHCN, SEPT
+* **Base Model**: MF
+* **Selection Bias**: MF-IPS
+* **Popularity Bias**: PDA, MACR, DICE, CausE
+* **Exposure Bias**: Rel-MF
 
 ### 3）The Team
 
