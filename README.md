@@ -17,17 +17,17 @@ setup, evaluation and algorithm implementation. This library is of great value t
 systems. 
 
 
-## [Data augmentation](https://github.com/RUCAIBox/RecBole-DA)
+## [RecBole-DA](https://github.com/RUCAIBox/RecBole-DA)
 
-## [Meta recommendation](https://github.com/nuster1128/RecBole-MetaRec)
+## [RecBole-MetaRec](https://github.com/nuster1128/RecBole-MetaRec)
 
-## [Debiased recommendation](https://github.com/JingsenZhang/RecBole-Debias)
+## [RecBole-debias](https://github.com/JingsenZhang/RecBole-Debias)
 
-## [Fairness-aware recommendation](https://github.com/TangJiakai/RecBole-FairRec)
+## [RecBole-FairRec](https://github.com/TangJiakai/RecBole-FairRec)
 
-## [Cross-domain recommendation](https://github.com/RUCAIBox/RecBole-CDR)
+## [RecBole-CDR](https://github.com/RUCAIBox/RecBole-CDR)
 
-## [Graph-based recommendation](https://github.com/RUCAIBox/RecBole-GNN)
+## [RecBole-GNN](https://github.com/RUCAIBox/RecBole-GNN)
 **RecBole-GNN** is a library built upon [PyTorch](https://pytorch.org) and [RecBole](https://github.com/RUCAIBox/RecBole) for reproducing and developing recommendation algorithms based on graph neural networks (GNNs). Our library includes algorithms covering three major categories:
 * **General Recommendation** with user-item interaction graphs;
 * **Sequential Recommendation** with session/sequence graphs;
@@ -36,5 +36,5 @@ systems.
 
 ![](asset/recbole-gnn.png)
 
-## [Transformer-based recommendation](https://github.com/RUCAIBOX/RecBole-TRM)
+## [RecBole-TRM](https://github.com/RUCAIBOX/RecBole-TRM)
 
