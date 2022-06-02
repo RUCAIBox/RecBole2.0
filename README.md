@@ -25,6 +25,29 @@ systems.
 ## [RecBole-FairRec](https://github.com/TangJiakai/RecBole-FairRec)
 
 ## [RecBole-CDR](https://github.com/RUCAIBox/RecBole-CDR)
+**RecBole-CDR** is a library built upon [RecBole](https://github.com/RUCAIBox/RecBole) for reproducing and developing cross-domain recommendation algorithms.
+
+### 1)Highlights
+
+* **Automatic and compatible data processing for cross-domain recommendation**:
+    Our library designs a unified data structure for cross-domain recommendation, which inherits all the data pre-processing strategies in RecBole. The overlapped data in different domains can be matched automatically.
+* **Flexible and customized model training strategies**:
+    Our library provides four basic training modes for cross-domain recommendation, which can be combined arbitrarily by users. It is also easy to customize training strategy in original way.
+* **Extensive cross-domain recommendation algorithms**:
+    Based on unified data structure and flexible training strategies, several cross-domain recommendation algorithms are implemented and compared with others fairly.
+
+### 2) Implemented Models
+
+Our library includes algorithms covering three major categories:
+
+* Algorithms based on the collective matrix factorization, such as CMF and CLFM.
+* Algorithms that share or combine the representations of the overlapped data, for example, DTCDR, DeepAPF and NATR.
+* Algorithms that transfer or map knowledge between different domains, such as CoNet, BiTGCF, EMCDR, SSCDR and DCDCSR.
+
+### 3) The Team
+
+RecBole-CDR is developed and maintained by members from [RUCAIBox](http://aibox.ruc.edu.cn/), the main developers are Zihan Lin ([@linzihan-backforward](https://github.com/linzihan-backforward)), Gaowei Zhang ([@Wicknight](https://github.com/Wicknight)) and Shanlei Mu ([@ShanleiMu](https://github.com/ShanleiMu)).
+
 
 ## [RecBole-GNN](https://github.com/RUCAIBox/RecBole-GNN)
 **RecBole-GNN** is a library built upon [PyTorch](https://pytorch.org) and [RecBole](https://github.com/RUCAIBox/RecBole) for reproducing and developing recommendation algorithms based on graph neural networks (GNNs). 
