@@ -1,15 +1,16 @@
 # RecBole 2.0
 Based on a popular recommendation framework [RecBole](https://github.com/RUCAIBox/Recbole), we develop an extended recommendation library called RecBole 2.0, consisting of benchmarking packages for up-to-date topics and architectures. 
 
-RecBole 2.0 includes 7 packages covering the up-to-date research topic in recommender system:
+RecBole 2.0 includes 8 packages covering the up-to-date research topic in recommender system:
 
-* Data augmentation
-* Meta recommendation
-* Debiased recommendation
-* Fairness-aware recommendation
-* Cross-domain recommendation
-* Graph-based recommendation
-* Transformer-based recommendation
+* Data augmentation (RecBole-DA)
+* Meta recommendation (RecBole-MetaRec)
+* Debiased recommendation (RecBole-Debias)
+* Fairness-aware recommendation (RecBole-FairRec)
+* Cross-domain recommendation (RecBole-CDR)
+* Graph-based recommendation (RecBole-GNN)
+* Transformer-based recommendation (RecBole-TRM)
+* Person-job fit (RecBole-PJF)
 
 For each package, we provide complete implementations from data loading, experimental
 setup, evaluation and algorithm implementation. This library is of great value to facilitate the up-to-date research in recommender
