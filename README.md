@@ -201,11 +201,11 @@ RecBole-TRM is developed and maintained by members from [RUCAIBox](http://aibox.
 
 ### 1）Highlights
 
-* **Unified framework** 
+* **Unified framework** :
 
   Our library build a unified framework for different methods, including collaborative methods,  content-based methods and hybrid methods;
 
-* **Evaluate from two perspective**
+* **Evaluate from two perspective**:
 
   Our library evaluate for both candidates and employers, which is not contained in previous frameworks;
 
