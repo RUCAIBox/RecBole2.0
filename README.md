@@ -194,3 +194,35 @@ Our library includes algorithms covering two major categories:
 ### 3）The Team
 
 RecBole-TRM is developed and maintained by members from [RUCAIBox](http://aibox.ruc.edu.cn/), the main developers are Wenqi Sun ([@wenqisun](https://github.com/wenqisun)) and Xinyan Fan ([@BELIEVEfxy](https://github.com/BELIEVEfxy)).
+
+## [RecBole-PJF](https://github.com/flust/RecBole-PJF)
+
+**RecBole-PJF** is a library built upon [PyTorch](https://pytorch.org) and [RecBole](https://github.com/RUCAIBox/RecBole) for reproducing and developing recommendation algorithms for person-job fit (PJF).
+
+### 1）Highlights
+
+* **Unified framework** 
+
+  Our library build a unified framework for different methods, including collaborative methods,  content-based methods and hybrid methods;
+
+* **Evaluate from two perspective**
+
+  Our library evaluate for both candidates and employers, which is not contained in previous frameworks;
+
+* **Easy to extend**:
+
+  Models for person-job fit can be easily extend to our library, as we provide multiple input interfaces for both interaction and text data. 
+
+### 2）Implemented Models
+
+Our library includes algorithms covering three major categories:
+
+* **CF-based Models**: LFRR and other models in RecBole
+* **Content-based Models**: PJFNN, BPJFNN, APJFNN, BERT
+
+* **Hybrid Models**: IPJF, PJFFF
+
+### 3）The Teams
+
+RecBole-GNN is developed and maintained by members from [RUCAIBox](http://aibox.ruc.edu.cn/), the main developers are Chen Yang ([@flust](https://github.com/flust), Yupeng Hou ([@hyp1231](https://github.com/hyp1231)), Shuqing Bian ([@fancybian](https://github.com/fancybian)).
+
