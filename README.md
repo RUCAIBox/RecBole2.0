@@ -3,14 +3,14 @@ Based on a popular recommendation framework [RecBole](https://github.com/RUCAIBo
 
 RecBole 2.0 includes 8 packages covering the up-to-date research topic in recommender system:
 
-* Data augmentation (RecBole-DA)
-* Meta recommendation (RecBole-MetaRec)
-* Debiased recommendation (RecBole-Debias)
-* Fairness-aware recommendation (RecBole-FairRec)
-* Cross-domain recommendation (RecBole-CDR)
-* Graph-based recommendation (RecBole-GNN)
-* Transformer-based recommendation (RecBole-TRM)
-* Person-job fit (RecBole-PJF)
+* Data augmentation (**RecBole-DA**)
+* Meta recommendation (**RecBole-MetaRec**)
+* Debiased recommendation (**RecBole-Debias**)
+* Fairness-aware recommendation (**RecBole-FairRec**)
+* Cross-domain recommendation (**RecBole-CDR**)
+* Graph-based recommendation (**RecBole-GNN**)
+* Transformer-based recommendation (**RecBole-TRM**)
+* Person-job fit (**RecBole-PJF**)
 
 For each package, we provide complete implementations from data loading, experimental
 setup, evaluation and algorithm implementation. This library is of great value to facilitate the up-to-date research in recommender
@@ -202,17 +202,9 @@ RecBole-TRM is developed and maintained by members from [RUCAIBox](http://aibox.
 
 ### 1）Highlights
 
-* **Unified framework** :
-
-  Our library build a unified framework for different methods, including collaborative methods,  content-based methods and hybrid methods;
-
-* **Evaluate from two perspective**:
-
-  Our library evaluate for both candidates and employers, which is not contained in previous frameworks;
-
-* **Easy to extend**:
-
-  Models for person-job fit can be easily extend to our library, as we provide multiple input interfaces for both interaction and text data. 
+* **Unified framework**: Our library build a unified framework for different methods, including collaborative methods,  content-based methods and hybrid methods;
+* **Evaluate from two perspective**: Our library evaluate for both candidates and employers, which is not contained in previous frameworks;
+* **Easy to extend**: Models for person-job fit can be easily extend to our library, as we provide multiple input interfaces for both interaction and text data. 
 
 ### 2）Implemented Models
 
@@ -221,9 +213,8 @@ Our library includes algorithms covering three major categories:
 * **CF-based Models**: LFRR and other models in RecBole
 * **Content-based Models**: PJFNN, BPJFNN, APJFNN, BERT
 
-* **Hybrid Models**: IPJF, PJFFF
+* **Hybrid Models**: IPJF, PJFFF, SHPJF
 
 ### 3）The Teams
 
 RecBole-GNN is developed and maintained by members from [RUCAIBox](http://aibox.ruc.edu.cn/), the main developers are Chen Yang ([@flust](https://github.com/flust), Yupeng Hou ([@hyp1231](https://github.com/hyp1231)), Shuqing Bian ([@fancybian](https://github.com/fancybian)).
-
