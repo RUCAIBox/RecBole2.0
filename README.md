@@ -213,7 +213,7 @@ Our library includes algorithms covering two major categories:
 
 RecBole-TRM is developed and maintained by members from [RUCAIBox](http://aibox.ruc.edu.cn/), the main developers are Wenqi Sun ([@wenqisun](https://github.com/wenqisun)) and Xinyan Fan ([@BELIEVEfxy](https://github.com/BELIEVEfxy)).
 
-## [RecBole-PJF](https://github.com/flust/RecBole-PJF)
+## [RecBole-PJF](https://github.com/RUCAIBox/RecBole-PJF)
 
 **RecBole-PJF** is a library built upon [PyTorch](https://pytorch.org) and [RecBole](https://github.com/RUCAIBox/RecBole) for reproducing and developing recommendation algorithms for person-job fit (PJF).
 
