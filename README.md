@@ -236,6 +236,10 @@ Our library includes algorithms covering three major categories:
 
 RecBole-PJF is developed and maintained by members from [RUCAIBox](http://aibox.ruc.edu.cn/), the main developers are Chen Yang ([@flust](https://github.com/flust)), Yupeng Hou ([@hyp1231](https://github.com/hyp1231)), Shuqing Bian ([@fancybian](https://github.com/fancybian)).
 
+## About RecBole 2.0
+With the rapid advancement of recommender systems, we are receiving an increasing number of requests from RecBole users for support the most recent advances (like debiased, fairness and GNNs). Meanwhile, members of our team are conducting research on these emerging topics or models.
+As a result, we build up this extended library based on [RecBole 1.0](https://github.com/RUCAIBox/RecBole) and we believe this extension is a significant contribution to RecBole, which is a valuable resource to the research community.
+
 
 ## Cite
 If you find RecBole useful for your research or development, please cite the following [paper](https://arxiv.org/abs/2011.01731):
