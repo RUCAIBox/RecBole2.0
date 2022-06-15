@@ -1,4 +1,9 @@
-# RecBole 2.0
+![RecBole Logo](asset/logo.png)
+
+--------------------------------------------------------------------------------
+# RecBole (伯乐) 2.0
+*“世有伯乐，然后有千里马。千里马常有，而伯乐不常有。”——韩愈《马说》*
+
 Based on a popular recommendation framework [RecBole](https://github.com/RUCAIBox/Recbole), we develop an extended recommendation library called RecBole 2.0, consisting of benchmarking packages for up-to-date topics and architectures. 
 
 RecBole 2.0 includes 8 packages covering the up-to-date research topic in recommender system:
