@@ -6,6 +6,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![arXiv](https://img.shields.io/badge/arXiv-RecBole-%23B21B1B)](https://arxiv.org/abs/2011.01731)
+
 [RecBole 1.0] | [HomePage] | [Datasets] | [Paper] 
 
 [RecBole 1.0]: https://github.com/RUCAIBox/RecBole
