@@ -245,7 +245,7 @@ As a result, we build up this extended library based on [RecBole 1.0](https://gi
 If you find RecBole useful for your research or development, please cite the following [paper](https://arxiv.org/abs/2011.01731):
 
 ```
-@inproceedings{DBLP:conf/cikm/ZhaoMHLCPLLWTMF21,
+@inproceedings{zhao2021recbole,
   author    = {Wayne Xin Zhao and Shanlei Mu and Yupeng Hou and Zihan Lin and Yushuo Chen and Xingyu Pan and Kaiyuan Li and Yujie Lu and Hui Wang and Changxin Tian and  Yingqian Min and Zhichao Feng and Xinyan Fan and Xu Chen and Pengfei Wang and Wendi Ji and Yaliang Li and Xiaoling Wang and Ji{-}Rong Wen},
   title     = {RecBole: Towards a Unified, Comprehensive and Efficient Framework for Recommendation Algorithms},
   booktitle = {{CIKM}},
