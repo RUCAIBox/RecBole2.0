@@ -5,8 +5,8 @@
 *“世有伯乐，然后有千里马。千里马常有，而伯乐不常有。”——韩愈《马说》*
 
 [![Home](https://img.shields.io/badge/Home-RecBole-red)](https://github.com/RUCAIBox/RecBole)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![arXiv](https://img.shields.io/badge/arXiv-RecBole-%23B21B1B)](https://arxiv.org/abs/2011.01731)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 
 [RecBole 1.0] | [HomePage] | [Datasets] | [Paper] 
 
