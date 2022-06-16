@@ -5,7 +5,7 @@
 *“世有伯乐，然后有千里马。千里马常有，而伯乐不常有。”——韩愈《马说》*
 
 [![Home](https://img.shields.io/badge/Home-RecBole-red)](https://github.com/RUCAIBox/RecBole)
-[![arXiv](https://img.shields.io/badge/arXiv-RecBole-%23B21B1B)](https://arxiv.org/abs/2011.01731)
+[![arXiv](https://img.shields.io/badge/arXiv-RecBole-%23B21B1B)](https://arxiv.org/abs/2206.07351)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 
 [RecBole 1.0] | [HomePage] | [Datasets] | [Paper] 
@@ -13,7 +13,7 @@
 [RecBole 1.0]: https://github.com/RUCAIBox/RecBole
 [HomePage]: https://recbole.io/
 [Datasets]: https://github.com/RUCAIBox/RecDatasets
-[Paper]: https://arxiv.org/abs/2011.01731
+[Paper]: https://arxiv.org/abs/2206.07351
 
 
 
@@ -243,9 +243,16 @@ As a result, we build up this extended library based on [RecBole 1.0](https://gi
 
 
 ## Cite
-If you find RecBole useful for your research or development, please cite the following [paper](https://arxiv.org/abs/2011.01731):
+If you find RecBole useful for your research or development, please cite the following [paper](https://arxiv.org/abs/2206.07351):
 
-```
+```bibtex
+@article{zhao2022recbole2,
+  author={Wayne Xin Zhao and Yupeng Hou and Xingyu Pan and Chen Yang and Zeyu Zhang and Zihan Lin and Jingsen Zhang and Shuqing Bian and Jiakai Tang and Wenqi Sun and Yushuo Chen and Lanling Xu and Gaowei Zhang and Zhen Tian and Changxin Tian and Shanlei Mu and Xinyan Fan and Xu Chen and Ji-Rong Wen},
+  title={RecBole 2.0: Towards a More Up-to-Date Recommendation Library},
+  journal={arXiv preprint arXiv:2206.07351},
+  year={2022}
+}
+
 @inproceedings{zhao2021recbole,
   author    = {Wayne Xin Zhao and Shanlei Mu and Yupeng Hou and Zihan Lin and Yushuo Chen and Xingyu Pan and Kaiyuan Li and Yujie Lu and Hui Wang and Changxin Tian and  Yingqian Min and Zhichao Feng and Xinyan Fan and Xu Chen and Pengfei Wang and Wendi Ji and Yaliang Li and Xiaoling Wang and Ji{-}Rong Wen},
   title     = {RecBole: Towards a Unified, Comprehensive and Efficient Framework for Recommendation Algorithms},
