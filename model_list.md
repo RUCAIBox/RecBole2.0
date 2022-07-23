@@ -6,7 +6,7 @@ Two versions of RecBole have implemented more than 100 commonly used recommendat
 We summarize all the models in the following table (arranged in lexicographic order after the model name is lowercase) and our [web page](https://recbole.io/cn/model_list.html). 
 
 | Model                                                        | Publish     | Paper                                                        | Repository                                                   |
-| ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| :----------------------------------------------------------- | :---------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | [**ADMM SLIM**](https://recbole.io/docs/user_guide/model/general/admmslim.html) | WSDM'20     | ADMM SLIM: Sparse Recommendations for Many Users             | [**RecBole**](https://github.com/RUCAIBox/RecBole)           |
 | [**AFM**](https://recbole.io/docs/user_guide/model/context/afm.html) | IJCAI'17    | Attentional Factorization Machines: Learning the Weight of Feature Interactions via | [**RecBole**](https://github.com/RUCAIBox/RecBole)           |
 | [**APJFNN**](https://github.com/RUCAIBox/RecBole-PJF/blob/main/recbole_pjf/model/APJFNN.py) | SIGIR'18    | Enhancing Person-Job Fit for Talent Recruitment: An Ability-aware Neural Network Approach | [**RecBole-PJF**](https://github.com/RUCAIBox/RecBole-PJF)   |
