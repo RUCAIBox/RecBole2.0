@@ -1,6 +1,5 @@
 # Model List
 
---------------------------------------------------------------------------------
 
 Two versions of RecBole have implemented more than 100 commonly used recommendation algorithms. 
 
