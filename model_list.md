@@ -1,8 +1,10 @@
-### Model List
+# Model List
+
+--------------------------------------------------------------------------------
 
 Two versions of RecBole have implemented more than 100 commonly used recommendation algorithms. 
 
-We summarize all the models in the following table (arranged in lexicographic order after the model name is lowercase) as well as our [web page](https://recbole.io/cn/model_list.html). 
+We summarize all the models in the following table (arranged in lexicographic order after the model name is lowercase) and our [web page](https://recbole.io/cn/model_list.html). 
 
 | Model                                                        | Publish     | Paper                                                        | Repository                                                   |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
